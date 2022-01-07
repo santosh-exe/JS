@@ -23,7 +23,8 @@ var str2 = 'This is also a string';
 var marks = {
     ravi: 88,
     Santosh: 55,
-    Alkesh: 86
+    Alkesh: 86,
+    Elliot: 90,
 }
 // console.log(marks);
 //Booleans
